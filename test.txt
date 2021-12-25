@@ -3,3 +3,5 @@ hello git!
 Edit test!
 
 branch test
+
+final test
